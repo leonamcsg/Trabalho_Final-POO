@@ -1,7 +1,7 @@
 Projeto Final da Disciplina POO
 # 🌱 Gerenciador de Estufas
 
-Este projeto é um sistema de **gerenciamento de estufas** que utiliza **PostgreSQL** para armazenar informações de eventos (irrigação, exaustor, iluminação) e logs atmosféricos.  
+Este projeto é um sistema de **gerenciamento de estufas** que utiliza **PostgreSQL** para armazenar informações de eventos irrigação e logs atmosféricos.  
 Além disso, possui um script em **Python** que insere dados atmosféricos simulados automaticamente no banco de dados.
 
 ---

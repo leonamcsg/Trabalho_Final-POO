@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|c:\\users\\leona\\desktop\\poo\\trabalho_final\\trabalhofinalpoo\\trab_final-gestao_estufas\\loggeratmosferico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|solutionrelative:loggeratmosferico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|c:\\users\\leona\\desktop\\poo\\trabalho_final\\trabalhofinalpoo\\trab_final-gestao_estufas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|c:\\users\\leona\\desktop\\poo\\trabalho_final\\trabalhofinalpoo\\trab_final-gestao_estufas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|c:\\users\\leona\\desktop\\poo\\trabalho_final\\trabalhofinalpoo\\trab_final-gestao_estufas\\models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|solutionrelative:models.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|c:\\users\\leona\\desktop\\poo\\trabalho_final\\trabalhofinalpoo\\trab_final-gestao_estufas\\controleirrigacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|solutionrelative:controleirrigacao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|c:\\users\\leona\\desktop\\poo\\trabalho_final\\trabalhofinalpoo\\trab_final-gestao_estufas\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|solutionrelative:database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|c:\\users\\leona\\desktop\\poo\\trabalho_final\\trabalhofinalpoo\\trab_final-gestao_estufas\\gestorestufas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E3B9BF-ABA0-4A11-B23E-AE623A0935FE}|trab_final-Gestao_Estufas.csproj|solutionrelative:gestorestufas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Models.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\Models.cs",
+              "RelativeDocumentMoniker": "Models.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\Models.cs",
+              "RelativeToolTip": "Models.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAUwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:25:00.342Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GestorEstufas.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\GestorEstufas.cs",
+              "RelativeDocumentMoniker": "GestorEstufas.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\GestorEstufas.cs",
+              "RelativeToolTip": "GestorEstufas.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:16:39.72Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControleIrrigacao.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\ControleIrrigacao.cs",
+              "RelativeDocumentMoniker": "ControleIrrigacao.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\ControleIrrigacao.cs",
+              "RelativeToolTip": "ControleIrrigacao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T00:23:17.167Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LoggerAtmosferico.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\LoggerAtmosferico.cs",
+              "RelativeDocumentMoniker": "LoggerAtmosferico.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\LoggerAtmosferico.cs",
+              "RelativeToolTip": "LoggerAtmosferico.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAUwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-20T01:34:37.448Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\Database.cs",
+              "RelativeDocumentMoniker": "Database.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\Database.cs",
+              "RelativeToolTip": "Database.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T22:26:07.576Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T23:25:01.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\leona\\Desktop\\POO\\trabalho_final\\TrabalhoFinalPOO\\trab_final-Gestao_Estufas\\Form1.cs [Design]",
+              "RelativeToolTip": "Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-19T23:24:56.29Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
